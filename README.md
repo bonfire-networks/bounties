@@ -83,4 +83,4 @@ At the same time, besides the awarded developer, we will optionally compensate o
 - Matrix channels for realtime chat: [General](https://matrix.to/#/%23bonfire-networks:matrix.org) & [Technical](https://matrix.to/#/%23bonfire-tech:matrix.org)
 - Forum for technical discussions: [Elixir Forum](https://elixirforum.com/tag/bonfire)
 - Email for private questions: team@bonfire.cafe
-# bounties
+
