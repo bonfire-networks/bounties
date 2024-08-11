@@ -1,5 +1,6 @@
 
-![Bonfire Bounty Programme](https://github.com/bonfire-networks/bounty-program/assets/1852065/a2ac0993-b0aa-4ba9-a92a-d1010618fe29)
+![Immagine 342348464](https://github.com/user-attachments/assets/84a9cdb0-1167-44eb-b8cc-d7eb92c90ff0)
+
 
 ## 🎉 Welcome to the Bonfire Bounty Programme
 
